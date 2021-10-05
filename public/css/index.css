@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Nunito", sans-serif; }
+  font-family: "Roboto", sans-serif; }
 
 table {
   width: 100%;
@@ -17,14 +17,16 @@ table {
 
 .container {
   width: 100%;
-  height: auto; }
+  height: auto;
+  padding-top: 10vh;
+}
 
 .digit-demo-container {
   text-align: center;
   background-color: #5c96bc;
-  border-radius: 5px;
-  margin: 20px auto;
-  width: 900px; }
+  border-radius: 15px;
+  margin: 10px auto;
+  width: 50vw; }
   .digit-demo-container h3 {
     font-size: 18px;
     background-color: #0f4c82;
